@@ -1,0 +1,6 @@
+mvn archetype:generate -DgroupId=mavenTest2 -DartifactId=myApp -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+mvn compile
+mvn clean
+mvn test
+mvn package
+java -cp myApp-1.0-SNAPSHOT.jar mavenTest2.App

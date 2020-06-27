@@ -1,0 +1,8 @@
+language: java
+jdk: oraclejdk8
+
+before_install:
+  - chmod +x /home/travis/build/TestowanieJAVA2017-2018Gr2/projekt-3-Dwiecko/src/test/resources/chromedriver
+  
+install: true
+script: "mvn test && mvn clean verify"

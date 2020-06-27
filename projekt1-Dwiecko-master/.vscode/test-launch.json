@@ -1,0 +1,22 @@
+{
+    "run": [
+        {
+            "name": "myProjectApp",
+            "projectName": "myProjectApp",
+            "workingDirectory": "c:\\Users\\DawidPC\\Desktop\\Projekt1\\projekt1-Dwiecko",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ],
+    "debug": [
+        {
+            "name": "myProjectApp",
+            "projectName": "myProjectApp",
+            "workingDirectory": "c:\\Users\\DawidPC\\Desktop\\Projekt1\\projekt1-Dwiecko",
+            "args": [],
+            "vmargs": [],
+            "preLaunchTask": ""
+        }
+    ]
+}

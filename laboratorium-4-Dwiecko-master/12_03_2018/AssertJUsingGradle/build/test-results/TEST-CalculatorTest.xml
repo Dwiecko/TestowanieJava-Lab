@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2018-03-12T21:32:15" hostname="Dawid" time="0.209">
+  <properties/>
+  <testcase name="ValuesAreNotNullable" classname="CalculatorTest" time="0.125"/>
+  <testcase name="TestLessThanZero" classname="CalculatorTest" time="0.0"/>
+  <testcase name="testLess" classname="CalculatorTest" time="0.015"/>
+  <testcase name="returnsArithmeticExceptionAfterDividingByZero" classname="CalculatorTest" time="0.01"/>
+  <testcase name="TestAdd" classname="CalculatorTest" time="0.01"/>
+  <testcase name="TestSub" classname="CalculatorTest" time="0.0"/>
+  <testcase name="StringIsNotEmpty" classname="CalculatorTest" time="0.004"/>
+  <testcase name="testEquality" classname="CalculatorTest" time="0.001"/>
+  <testcase name="GivenResultContainsOnlyDigits" classname="CalculatorTest" time="0.003"/>
+  <testcase name="TestMultiply" classname="CalculatorTest" time="0.004"/>
+  <testcase name="TestGreater" classname="CalculatorTest" time="0.002"/>
+  <testcase name="FieldIsInstanceOfACalculatorClass" classname="CalculatorTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,6 @@
+driver.get(driver.getCurrentUrl());
+driver.executeScript("history.go(0)"); 
+driver.executeScript("location.reload()");
+driver.navigate().to(driver.getCurrentUrl());
+driver.findElement(By.id("someID")).sendKeys(Keys.F5);
+driver.findElement(By.id("someID")).sendKeys("\uE035");
